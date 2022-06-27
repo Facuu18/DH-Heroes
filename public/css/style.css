@@ -1,0 +1,43 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1{
+    background-color: whitesmoke;
+    color:  #5b559a;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+img{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 275px;
+    float: left;
+    border-style:groove;
+    border-color: darkblue;
+    border-radius: 10%
+}
+  header nav ul li a{
+    background-color: black;
+    margin-top: 20px;
+    font-size: 25px;
+    color: rgb(76, 0, 255);
+  }
+  article{
+    background-color: rgba(240, 255, 255, 0.801);
+  }
+    footer {
+        width: 100%;
+        margin: auto;
+        background-color: rgba(0, 0, 255, 0.747);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        color: white;
+        text-align: center;
+      }
